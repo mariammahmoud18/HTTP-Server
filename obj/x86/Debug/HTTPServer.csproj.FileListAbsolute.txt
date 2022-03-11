@@ -1,0 +1,30 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\..Third Year\First Semester\Computer Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\..Third Year\First Semester\Computer Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\..Third Year\First Semester\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+D:\..Third Year\First Semester\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\..Third Year\First Semester\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\..Third Year\First Semester\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\..Third Year\First Semester\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\Third Year\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\Third Year\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\Third Year\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+E:\Third Year\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\Third Year\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\Third Year\Computer Networks\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\3rd year\Computer Networking\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+D:\3rd year\Computer Networking\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\3rd year\Computer Networking\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\3rd year\Computer Networking\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\3rd year\Computer Networking\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Networks 3rd 1st term\PROJECT NETWORK (4)\PROJECT NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
